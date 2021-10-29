@@ -1,0 +1,3899 @@
+[
+  {
+    "codigo": "5622",
+    "desdobramento": "04",
+    "infracao": "Parar nos canteiros centrais ou divisores de pista de rolamento",
+    "artigo": "182, VI",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5622",
+    "desdobramento": "05",
+    "infracao": "Parar nas marcas de canalização",
+    "artigo": "182, VI",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5630",
+    "desdobramento": "00",
+    "infracao": "Parar na área de cruzamento de vias",
+    "artigo": "182, VII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5649",
+    "desdobramento": "01",
+    "infracao": "Parar nos viadutos",
+    "artigo": "182, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5649",
+    "desdobramento": "02",
+    "infracao": "Parar nas pontes",
+    "artigo": "182, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5649",
+    "desdobramento": "03",
+    "infracao": "Parar nos túneis",
+    "artigo": "182, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5657",
+    "desdobramento": "00",
+    "infracao": "Parar na contramão de direção",
+    "artigo": "182, IX",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5665",
+    "desdobramento": "00",
+    "infracao": "Parar em local/horário proibidos especificamente pela sinalização",
+    "artigo": "182, X",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5673",
+    "desdobramento": "01",
+    "infracao": "Parar sobre faixa de pedestres na mudança de sinal luminoso",
+    "artigo": "183",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5673",
+    "desdobramento": "02",
+    "infracao": "Parar sobre faixa de pedestres na mudança de sinal luminoso (fiscalização eletrônica)",
+    "artigo": "183",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5681",
+    "desdobramento": "00",
+    "infracao": "Transitar na faixa ou pista da direita, regulamentada como de circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou conversões à direita",
+    "artigo": "184, I",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5690",
+    "desdobramento": "00",
+    "infracao": "Transitar na faixa ou pista da esquerda regulamentada como de circulação exclusiva para determinado tipo de veículo",
+    "artigo": "184, II",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5703",
+    "desdobramento": "00",
+    "infracao": "Deixar de conservar o veículo na faixa a ele destinada pela sinalização de regulamentação",
+    "artigo": "185, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5711",
+    "desdobramento": "00",
+    "infracao": "Deixar de conservar nas faixas da direita o veículo lento e de maior porte",
+    "artigo": "185, II",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5720",
+    "desdobramento": "00",
+    "infracao": "Transitar pela contramão de direção em via com duplo sentido de circulação",
+    "artigo": "186, I",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5738",
+    "desdobramento": "00",
+    "infracao": "Transitar pela contramão de direção em via com sinalização de regulamentação de sentido único de circulação",
+    "artigo": "186, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5746",
+    "desdobramento": "01",
+    "infracao": "Transitar em local/horário não permitido pela regulamentação estabelecida pela autoridade",
+    "artigo": "187, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5746",
+    "desdobramento": "02",
+    "infracao": "Transitar em local/horário não permitido pela regulamentação - rodízio",
+    "artigo": "187, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5746",
+    "desdobramento": "03",
+    "infracao": "Transitar em local/horário não permitido pela regulamentação - caminhão",
+    "artigo": "187, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5762",
+    "desdobramento": "00",
+    "infracao": "Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito",
+    "artigo": "188",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5770",
+    "desdobramento": "01",
+    "infracao": "Deixar de dar passagem a veículo precedido de batedores devidamente identificados",
+    "artigo": "189",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5770",
+    "desdobramento": "02",
+    "infracao": "Deixar de dar passagem aos veículos precedidos de batedores, de socorro de incêndio e salvamento, de polícia, de operação e fiscalização de trânsito e às ambulâncias, quando em serviço de urgência e devidamente identificados por dispositivos regulamentados de alarme sonoro e iluminação vermelha intermitentes",
+    "artigo": "189",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5770",
+    "desdobramento": "03",
+    "infracao": "Deixar de dar passagem a veículo de polícia em serviço de urgência devidamente identificado",
+    "artigo": "189",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5770",
+    "desdobramento": "04",
+    "infracao": "Deixar de dar passagem a veículo de operação e fiscalização de trânsito devidamente identificado",
+    "artigo": "189",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5770",
+    "desdobramento": "05",
+    "infracao": "Deixar de dar passagem a ambulância em serviço de urgência devidamente identificada",
+    "artigo": "189",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5789",
+    "desdobramento": "00",
+    "infracao": "Seguir veículo em serviço de urgência, estando este com prioridade de passagem devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação vermelha intermitentes",
+    "artigo": "190",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5797",
+    "desdobramento": "00",
+    "infracao": "Forçar passagem entre veículos que, transitando em sentidos opostos, estejam na iminência de passar um pelo outro ao realizar operação de ultrapassagem",
+    "artigo": "191",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5800",
+    "desdobramento": "00",
+    "infracao": "Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os demais, bem como em relação ao bordo da pista, considerando-se, no momento, a velocidade, as condições climáticas do local da circulação e do veículo",
+    "artigo": "192",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "01",
+    "infracao": "Transitar com o veículo em calçadas, passeios",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "02",
+    "infracao": "Transitar com o veículo em ciclovias, ciclofaixas",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "03",
+    "infracao": "Transitar com o veículo em ajardinamentos, gramados, jardins públicos",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "04",
+    "infracao": "Transitar com o veículo em canteiros centrais/divisores de pista de rolamentos",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "05",
+    "infracao": "Transitar com o veículo em ilhas, refúgios",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "06",
+    "infracao": "Transitar com o veículo em marcas de canalização",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "07",
+    "infracao": "Transitar com o veículo em acostamentos",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5819",
+    "desdobramento": "08",
+    "infracao": "Transitar com o veículo em passarelas",
+    "artigo": "193",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5827",
+    "desdobramento": "00",
+    "infracao": "Transitar em marcha ré, salvo na distância necessária a pequenas manobras",
+    "artigo": "194",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5835",
+    "desdobramento": "00",
+    "infracao": "Desobedecer as ordens emanadas da autoridade competente de trânsito ou de seus agentes",
+    "artigo": "195",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5843",
+    "desdobramento": "01",
+    "infracao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção do veículo, início da marcha",
+    "artigo": "196",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5843",
+    "desdobramento": "02",
+    "infracao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção do veículo, manobra de parar",
+    "artigo": "196",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5843",
+    "desdobramento": "03",
+    "infracao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção do veículo, mudança de direção",
+    "artigo": "196",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5843",
+    "desdobramento": "04",
+    "infracao": "Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz indicadora de direção do veículo, mudança de faixa",
+    "artigo": "196",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5851",
+    "desdobramento": "01",
+    "infracao": "Deixar de deslocar com antecedência veículo p/ faixa mais a esquerda quando for manobrar",
+    "artigo": "197",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5851",
+    "desdobramento": "02",
+    "infracao": "Deixar de deslocar com antecedência veículo p/ faixa mais a direita quando for manobrar",
+    "artigo": "197",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5860",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar passagem pela esquerda quando solicitado.",
+    "artigo": "198",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5878",
+    "desdobramento": "00",
+    "infracao": "Ultrapassar pela direita, salvo quando o veículo da frente der sinal p/ entrar a esquerda",
+    "artigo": "199",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5886",
+    "desdobramento": "00",
+    "infracao": "Ultrapassar pela direita veículo de transporte coletivo parado para embarque/desembarque de passageiros",
+    "artigo": "200",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5894",
+    "desdobramento": "00",
+    "infracao": "Deixar de guardar a distância lateral de 1,50m ao passar/ultrapassar bicicleta",
+    "artigo": "201",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5908",
+    "desdobramento": "00",
+    "infracao": "Ultrapassar pelo acostamento",
+    "artigo": "202, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5916",
+    "desdobramento": "01",
+    "infracao": "Ultrapassar em interseções",
+    "artigo": "202, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5916",
+    "desdobramento": "02",
+    "infracao": "Ultrapassar em passagem de nível",
+    "artigo": "202, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5924",
+    "desdobramento": "01",
+    "infracao": "Ultrapassar pela contramão nas curvas sem visibilidade suficiente",
+    "artigo": "203, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5924",
+    "desdobramento": "02",
+    "infracao": "Ultrapassar pela contramão nos aclives ou declives, sem visibilidade suficiente",
+    "artigo": "203, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5932",
+    "desdobramento": "00",
+    "infracao": "Ultrapassar pela contramão nas faixas de pedestre",
+    "artigo": "203, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5940",
+    "desdobramento": "01",
+    "infracao": "Ultrapassar pela contramão nas pontes",
+    "artigo": "203, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5940",
+    "desdobramento": "02",
+    "infracao": "Ultrapassar pela contramão nos viadutos",
+    "artigo": "203, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5940",
+    "desdobramento": "03",
+    "infracao": "Ultrapassar pela contramão nos túneis",
+    "artigo": "203, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5959",
+    "desdobramento": "01",
+    "infracao": "Ultrapassar pela contramão veículo parado em fila junto a sinal luminoso",
+    "artigo": "203, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5959",
+    "desdobramento": "02",
+    "infracao": "Ultrapassar pela contramão veículo parado em fila junto a cancela/porteira",
+    "artigo": "203, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5959",
+    "desdobramento": "03",
+    "infracao": "Ultrapassar pela contramão veículo parado em fila junto a cruzamento",
+    "artigo": "203, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5959",
+    "desdobramento": "04",
+    "infracao": "Ultrapassar pela contramão veículo parado em fila junto a qualquer impedimento à livre circulação",
+    "artigo": "203, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5967",
+    "desdobramento": "00",
+    "infracao": "Ultrapassar pela contramão linha de divisão de fluxos opostos do tipo linha dupla contínua ou simples contínua amarela",
+    "artigo": "203, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.34
+  },
+  {
+    "codigo": "5975",
+    "desdobramento": "00",
+    "infracao": "Deixar de parar no acostamento à direita, p/ cruzar pista ou entrar à esquerda",
+    "artigo": "204",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5983",
+    "desdobramento": "00",
+    "infracao": "Ultrapassar veículo em movimento que integre cortejo/desfile/formação militar",
+    "artigo": "205",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5991",
+    "desdobramento": "00",
+    "infracao": "Executar operação de retorno em locais proibidos pela sinalização",
+    "artigo": "206, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6009",
+    "desdobramento": "01",
+    "infracao": "Executar operação de retorno nas curvas",
+    "artigo": "206, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6009",
+    "desdobramento": "02",
+    "infracao": "Executar operação de retorno nos aclives ou declives",
+    "artigo": "206, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6009",
+    "desdobramento": "03",
+    "infracao": "Executar operação de retorno nas pontes",
+    "artigo": "206, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6009",
+    "desdobramento": "04",
+    "infracao": "Executar operação de retorno nos viadutos",
+    "artigo": "206, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6009",
+    "desdobramento": "05",
+    "infracao": "Executar operação de retorno nos túneis",
+    "artigo": "206, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6017",
+    "desdobramento": "01",
+    "infracao": "Executar operação de retorno passando por cima de calçada, passeio",
+    "artigo": "206, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6017",
+    "desdobramento": "02",
+    "infracao": "Executar operação de retorno passando por cima de ilha, refúgio",
+    "artigo": "206, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6017",
+    "desdobramento": "03",
+    "infracao": "Executar operação de retorno passando por cima de ajardinamento",
+    "artigo": "206, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6017",
+    "desdobramento": "04",
+    "infracao": "Executar operação de retorno passando por cima de canteiro de divisor de pista",
+    "artigo": "206, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6017",
+    "desdobramento": "05",
+    "infracao": "Executar operação de retorno passando por cima de faixa de pedestres",
+    "artigo": "206, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6017",
+    "desdobramento": "06",
+    "infracao": "Executar operação de retorno passando por cima de faixa de veículo não motorizados",
+    "artigo": "206, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6025",
+    "desdobramento": "00",
+    "infracao": "Executar retorno nas interseções, entrando na contramão da via transversal",
+    "artigo": "206, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6033",
+    "desdobramento": "00",
+    "infracao": "Executar retorno com prejuizo da circulação/segurança ainda que em local permitido",
+    "artigo": "206, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6041",
+    "desdobramento": "01",
+    "infracao": "Executar operação de conversão a direita em local proibido pela sinalização",
+    "artigo": "207",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6041",
+    "desdobramento": "02",
+    "infracao": "Executar operação de conversão a esquerda em local proibido pela sinalização",
+    "artigo": "207",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6050",
+    "desdobramento": "01",
+    "infracao": "Avançar o sinal vermelho do semáforo exceto onde houver sinalização que permita a livre conversão à direita",
+    "artigo": "208",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6050",
+    "desdobramento": "02",
+    "infracao": "Avançar o sinal de parada obrigatória",
+    "artigo": "208",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6050",
+    "desdobramento": "03",
+    "infracao": "Avançar o sinal vermelho do semáforo exceto onde houver sinalização que permita a livre conversão à direita - fiscalização eletrônica",
+    "artigo": "208",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6068",
+    "desdobramento": "01",
+    "infracao": "Transpor bloqueio viário com ou sem sinalização ou dispositivos auxiliares",
+    "artigo": "209",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6068",
+    "desdobramento": "02",
+    "infracao": "Deixar de adentrar as áreas destinadas a pesagem de veículos",
+    "artigo": "209",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6076",
+    "desdobramento": "00",
+    "infracao": "Transpor bloqueio viário policial",
+    "artigo": "210",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6084",
+    "desdobramento": "01",
+    "infracao": "Ultrapassar veículos motorizados em fila, parados em razão de sinal luminoso",
+    "artigo": "211",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6084",
+    "desdobramento": "02",
+    "infracao": "Ultrapassar veículos motorizados em fila, parados em razão de cancela",
+    "artigo": "211",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6084",
+    "desdobramento": "03",
+    "infracao": "Ultrapassar veículo motorizados em fila parados em razão de bloqueio viário parcial",
+    "artigo": "211",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6084",
+    "desdobramento": "04",
+    "infracao": "Ultrapassar veículos motorizados em fila, parados em razão de qualquer obstáculo",
+    "artigo": "211",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6092",
+    "desdobramento": "00",
+    "infracao": "Deixar de parar o veículo antes de transpor linha férrea.",
+    "artigo": "212",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6106",
+    "desdobramento": "00",
+    "infracao": "Deixar de parar sempre que a marcha for interceptada por agrupamento de pessoas",
+    "artigo": "213, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6114",
+    "desdobramento": "00",
+    "infracao": "Deixar de parar sempre que a marcha for interceptada por agrupamento de veículos",
+    "artigo": "213, II",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6122",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar preferência a pedestre/veículo não motorizado na faixa a ele destinada",
+    "artigo": "214, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6130",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar preferência a pedestre/veículo não motorizado que não haja concluído a travessia",
+    "artigo": "214, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6149",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar preferência a pedestre portador deficiência física/criança/idoso/gestante",
+    "artigo": "214, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6157",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar preferência a pedestre/veículo não motorizado quando iniciada travessia s/ sinalização",
+    "artigo": "214, IV",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6165",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar preferência a pedestre/veículo não motorizado atravessando a via transversal",
+    "artigo": "214, V",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6173",
+    "desdobramento": "01",
+    "infracao": "Deixar de dar preferência em interseção não sinalizada, a veículo circulando por rodovia",
+    "artigo": "215, I-A",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6173",
+    "desdobramento": "02",
+    "infracao": "Deixar de dar preferência em interseção não sinalizada, veículo circulando por rotatoria",
+    "artigo": "215, I-A",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6173",
+    "desdobramento": "03",
+    "infracao": "Deixar de dar preferência em interseção não sinalizada, a veículo que vier da direita",
+    "artigo": "215, I-B",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6181",
+    "desdobramento": "00",
+    "infracao": "Deixar de dar preferência em interseções com sinalização de \"dê a preferência\"",
+    "artigo": "215, II",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6190",
+    "desdobramento": "00",
+    "infracao": "Entrar/sair de área lindeira sem precaução com a segurança de pedestres e veículos",
+    "artigo": "216",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6203",
+    "desdobramento": "00",
+    "infracao": "Entrar/sair de fila de veículos estacionados sem dar preferência a pedestres/veículos",
+    "artigo": "217",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6254",
+    "desdobramento": "00",
+    "infracao": "Transitar em velocidade inferior a metade da máxima da via, salvo faixa direita",
+    "artigo": "219",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6262",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade quando se aproximar de passeata/aglomeração/desfile/etc",
+    "artigo": "220, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6270",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade onde o trânsito esteja sendo controlado pelo agente",
+    "artigo": "220, II",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6289",
+    "desdobramento": "01",
+    "infracao": "Deixar de reduzir a velocidade do veículo ao aproximar-se da guia da calçada",
+    "artigo": "220, III",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6289",
+    "desdobramento": "02",
+    "infracao": "Deixar de reduzir a velocidade do veículo ao aproximar-se do acostamento",
+    "artigo": "220, III",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6297",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir velocidade do veículo ao aproximar-se interseção não sinalizada",
+    "artigo": "220, IV",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6300",
+    "desdobramento": "00",
+    "infracao": "Deixar reduzir velocidade nas vias rurais cuja faixa de domínio não esteja cercada",
+    "artigo": "220, V",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6319",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade nos trechos em curva de pequeno raio",
+    "artigo": "220, VI",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6327",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade ao aproximar de local sinalizado com advertência de obras ou trabalhadores na pista",
+    "artigo": "220, VII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6335",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade sob chuva/neblina/cerração/ventos fortes",
+    "artigo": "220, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6343",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade quando houver má visibilidade",
+    "artigo": "220, IX",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6351",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade quando o pavimento se apresentar escorregadio/defeituoso/avariado",
+    "artigo": "220, X",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6360",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade à aproximacao de animais na pista",
+    "artigo": "220, XI",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6378",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade de forma compatível com a segurança, em declive.",
+    "artigo": "220, XII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6386",
+    "desdobramento": "00",
+    "infracao": "Deixar de reduzir a velocidade de forma compatível com a segurança ao ultrapassar ciclista",
+    "artigo": "220, XIII",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6394",
+    "desdobramento": "01",
+    "infracao": "Deixar de reduzir a velocidade nas proximidades de escolas",
+    "artigo": "220, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6394",
+    "desdobramento": "02",
+    "infracao": "Deixar de reduzir a velocidade nas proximidades de hospitais",
+    "artigo": "220, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6394",
+    "desdobramento": "03",
+    "infracao": "Deixar de reduzir velocidade nas proximidades de estação de embarque/desembarque de passageiros",
+    "artigo": "220, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6394",
+    "desdobramento": "04",
+    "infracao": "Deixar de reduzir velocidade onde haja intensa movimentação de pedestres",
+    "artigo": "220, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6408",
+    "desdobramento": "00",
+    "infracao": "Portar no veículo placas de identificação em desacordo com as especificações e modelos estabelecidos pelo CONTRAN",
+    "artigo": "221",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6416",
+    "desdobramento": "00",
+    "infracao": "Confeccionar/distribuir/colocar, em veículo próprio ou de terceiros, placas de identificação não autorizadas pela regulamentação",
+    "artigo": "221, Parágrafo Único",
+    "infrator": "Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6424",
+    "desdobramento": "00",
+    "infracao": "Deixar de manter ligado, nas situações de atendimento de emergência, o sistema de iluminação vermelha intermitente dos veículos de polícia, de socorro de incêndio e salvamento, de fiscalização de trânsito e das ambulâncias, ainda que parados",
+    "artigo": "222",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6432",
+    "desdobramento": "01",
+    "infracao": "Transitar com farol desregulado perturbando a visão de outro condutor",
+    "artigo": "223",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6432",
+    "desdobramento": "02",
+    "infracao": "Transitar com o facho de luz alta perturbando a visão de outro condutor",
+    "artigo": "223",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6440",
+    "desdobramento": "00",
+    "infracao": "Fazer uso do facho de luz alta dos faróis em vias providas de iluminação pública",
+    "artigo": "224",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6459",
+    "desdobramento": "01",
+    "infracao": "Deixar de sinalizar via para tornar visível local quando tiver de remover o veículo da pista",
+    "artigo": "225, I",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6459",
+    "desdobramento": "02",
+    "infracao": "Deixar de sinalizar via para tornar visível local quando permanecer no acostamento",
+    "artigo": "225, I",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6467",
+    "desdobramento": "00",
+    "infracao": "Deixar de sinalizar via para tornar visível local quando a carga for derramada",
+    "artigo": "225, II",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6475",
+    "desdobramento": "00",
+    "infracao": "Deixar de retirar qualquer objeto utilizado para sinalização temporária da via",
+    "artigo": "226",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6483",
+    "desdobramento": "00",
+    "infracao": "Usar buzina que não a de toque breve como advertência a pedestre ou condutores",
+    "artigo": "227, I",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6491",
+    "desdobramento": "00",
+    "infracao": "Usar buzina prolongada e sucessivamente a qualquer pretexto",
+    "artigo": "227, II",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6505",
+    "desdobramento": "00",
+    "infracao": "Usar buzina entre as vinte e duas e as seis horas",
+    "artigo": "227, III",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6513",
+    "desdobramento": "00",
+    "infracao": "Usar buzina em locais e horários proibidos pela sinalização",
+    "artigo": "227, IV",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6521",
+    "desdobramento": "00",
+    "infracao": "Usar buzina em desacordo com os padrões e frequências estabelecidas pelo CONTRAN",
+    "artigo": "227, V",
+    "infrator": "Proprietário",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6530",
+    "desdobramento": "00",
+    "infracao": "Usar no veículo equipamento com som em volume/frequência não autorizados pelo CONTRAN",
+    "artigo": "228",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6548",
+    "desdobramento": "00",
+    "infracao": "Usar no veículo alarme/aparelho produzindo som que perturbe o sossego público em desacordo com as normas do CONTRAN",
+    "artigo": "229",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6556",
+    "desdobramento": "01",
+    "infracao": "Conduzir o veículo com o lacre de identificação violado/falsificado",
+    "artigo": "230, I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6556",
+    "desdobramento": "02",
+    "infracao": "Conduzir o veículo com a inscrição do chassi violada/falsificada",
+    "artigo": "230, I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6556",
+    "desdobramento": "03",
+    "infracao": "Conduzir o veículo com o selo violado/falsificado",
+    "artigo": "230, I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6556",
+    "desdobramento": "04",
+    "infracao": "Conduzir o veículo com a placa violada/falsificada",
+    "artigo": "230, I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6556",
+    "desdobramento": "05",
+    "infracao": "Conduzir o veículo com qualquer outro elemento de identificação violado/falsificado",
+    "artigo": "230, I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6564",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo transportando passageiros em compartimento de carga",
+    "artigo": "230, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6572",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo com dispositivo antirradar",
+    "artigo": "230, III",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6580",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo sem qualquer uma das placas de identificação",
+    "artigo": "230, IV",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6599",
+    "desdobramento": "01",
+    "infracao": "Conduzir o veículo que não esteja registrado",
+    "artigo": "230, V",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6599",
+    "desdobramento": "02",
+    "infracao": "Conduzir o veículo registrado que não esteja devidamente licenciado",
+    "artigo": "230, V",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6602",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo com qualquer uma das placas sem legibilidade e visibilidade",
+    "artigo": "230, VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6610",
+    "desdobramento": "01",
+    "infracao": "Conduzir o veículo com a cor alterada",
+    "artigo": "230, VII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6610",
+    "desdobramento": "02",
+    "infracao": "Conduzir o veículo com característica alterada",
+    "artigo": "230, VII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6629",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo sem ter sido submetido a inspeção de segurança veícular, quando obrigatória",
+    "artigo": "230, VIII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6637",
+    "desdobramento": "01",
+    "infracao": "Conduzir o veículo sem equipamento obrigatório",
+    "artigo": "230, IX",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6637",
+    "desdobramento": "02",
+    "infracao": "Conduzir o veículo com equipamento obrigatório ineficiente/inoperante",
+    "artigo": "230, IX",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6645",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo com equipamento obrigatório em desacordo com o estabelecido pelo CONTRAN",
+    "artigo": "230, X",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6653",
+    "desdobramento": "01",
+    "infracao": "Conduzir o veículo com descarga livre",
+    "artigo": "230, XI",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6653",
+    "desdobramento": "02",
+    "infracao": "Conduzir o veículo com silenciador de motor defeituoso/deficiente/inoperante",
+    "artigo": "230, XI",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6661",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo com equipamento ou acessorio proibido",
+    "artigo": "230, XII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6670",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo com o equipamento do sistema de iluminação e de sinalização alterados",
+    "artigo": "230, XIII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6688",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo com registrador instantâneo inalterável de velocidade e tempo viciado ou defeituoso",
+    "artigo": "230, XIV",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6696",
+    "desdobramento": "01",
+    "infracao": "Conduzir veículo com inscrições, adesivos, legendas e símbolos de caráter publicitário afixados ou pintados no pára-brisa e em toda a extensão da parte traseira do veículo",
+    "artigo": "230, XV",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6696",
+    "desdobramento": "02",
+    "infracao": "Conduzir com inscr/adesivo/legenda/simbolo pintado para-brisa e extensao traseira",
+    "artigo": "230, XV",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6700",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo com vidro total ou parcialmente coberto por película, painéis/pintura",
+    "artigo": "230, XVI",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6718",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo com cortinas ou persianas fechadas",
+    "artigo": "230, XVII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6726",
+    "desdobramento": "01",
+    "infracao": "Conduzir o veículo em mau estado de conservação, comprometendo a segurança",
+    "artigo": "230, XVIII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6726",
+    "desdobramento": "02",
+    "infracao": "Conduzir o veículo reprovado na avaliação de inspeção de segurança",
+    "artigo": "230, XVIII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6726",
+    "desdobramento": "03",
+    "infracao": "Conduzir o veículo reprovado na avaliação de emissão de poluentes e ruído",
+    "artigo": "230, XVIII",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6734",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo sem acionar o limpador de para-brisas sob chuva",
+    "artigo": "230, XIX",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6742",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo sem portar a autorização para condução de escolares",
+    "artigo": "230, XX",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "6750",
+    "desdobramento": "00",
+    "infracao": "Conduzir o veículo de carga com falta inscrição da tara e demais previstas no CTB",
+    "artigo": "230, XXI",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6769",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo com defeito no sistema de iluminação, sinalização ou lâmpadas queimadas",
+    "artigo": "230, XXII",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6777",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo danificando a via, suas instalações e equipamentos",
+    "artigo": "231, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6785",
+    "desdobramento": "01",
+    "infracao": "Transitar com veículo derramando a carga que esteja transportando",
+    "artigo": "231, II-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6785",
+    "desdobramento": "02",
+    "infracao": "Transitar com veículo lançando a carga que esteja transportando",
+    "artigo": "231, II-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6785",
+    "desdobramento": "03",
+    "infracao": "Transitar com veículo arrastando a carga que esteja transportando",
+    "artigo": "231, II-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6793",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo derramando/lançando combustível/lubrificante que esteja utilizando",
+    "artigo": "231, II-B",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6807",
+    "desdobramento": "00",
+    "infracao": "Transitar com veículo derramando/lançando/arrastando objeto que possa acarretar acidente",
+    "artigo": "231, II-C",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6815",
+    "desdobramento": "00",
+    "infracao": "Transitar com veículo produzindo fumaça, gases ou partículas em desacordo com o CONTRAN",
+    "artigo": "231, III",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6823",
+    "desdobramento": "01",
+    "infracao": "Transitar com veículo e/ou carga com dimensões superiores ao limite legal sem autorização",
+    "artigo": "231, IV",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6823",
+    "desdobramento": "02",
+    "infracao": "Transitar com veículo e/ou carga com dimensões superiores aos limites estabelecidos legalmente ou pela sinalização, sem autorização",
+    "artigo": "231, IV",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6831",
+    "desdobramento": "01",
+    "infracao": "Transitar com o veículo com excesso de peso (PBT/PBTC)",
+    "artigo": "231, V",
+    "infrator": "Embarcador/Transportador",
+    "pontuacao": 0,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6831",
+    "desdobramento": "02",
+    "infracao": "Transitar com o veículo com excesso de peso por eixo",
+    "artigo": "231, V",
+    "infrator": "Embarcador/Transportador",
+    "pontuacao": 0,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6831",
+    "desdobramento": "03",
+    "infracao": "Transitar com o veículo com excesso de peso (PBT/PBTC e por eixo)",
+    "artigo": "231, V",
+    "infrator": "Embarcador/Transportador",
+    "pontuacao": 0,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6840",
+    "desdobramento": "01",
+    "infracao": "Transitar em desacordo com autorização expedida para veículo com dimensões excedentes",
+    "artigo": "231, VI",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6840",
+    "desdobramento": "02",
+    "infracao": "Transitar com autorização vencida, expedida para veículo com dimensoes excedentes",
+    "artigo": "231, VI",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6858",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo com lotação excedente",
+    "artigo": "231, VII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6866",
+    "desdobramento": "01",
+    "infracao": "Transitar efetuando transporte remunerado de pessoas quando não licenciado para esse fim",
+    "artigo": "231, VIII",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6866",
+    "desdobramento": "02",
+    "infracao": "Transitar efetuando transporte remunerado de bens quando não licenciado para esse fim",
+    "artigo": "231, VIII",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6874",
+    "desdobramento": "01",
+    "infracao": "Transitar com o veículo desligado em declive",
+    "artigo": "231, IX",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6874",
+    "desdobramento": "02",
+    "infracao": "Transitar com o veículo desengrenado em declive",
+    "artigo": "231, IX",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6882",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo excedendo a capacidade máxima de tração em até 600kg",
+    "artigo": "231, X",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6890",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo excedendo a capacidade máxima de tração entre 601kg e 1000kg",
+    "artigo": "231, X",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6904",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo excedendo a capacidade máxima de tração acima de 1000kg",
+    "artigo": "231, X",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6912",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo sem os documentos de porte obrigatório referidos no CTB",
+    "artigo": "232",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "6920",
+    "desdobramento": "01",
+    "infracao": "Deixar de efetuar registro de veículo em 30 dias, quando for transferida a propriedade",
+    "artigo": "233 C/C 123, I",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6920",
+    "desdobramento": "02",
+    "infracao": "Deixar de efetuar registro veículo em 30 dias, quando mudar o município de domicílio/residência",
+    "artigo": "233 C/C 123, II",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6920",
+    "desdobramento": "03",
+    "infracao": "Deixar de efetuar registro de veículo em 30 dias, quando for alterada qualquer característica do veículo",
+    "artigo": "233 C/C 123, III",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6920",
+    "desdobramento": "04",
+    "infracao": "Deixar de efetuar registro de veículo em 30 dias, quando houver mudança de categoria",
+    "artigo": "233 C/C 123, IV",
+    "infrator": "Proprietário",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6939",
+    "desdobramento": "01",
+    "infracao": "Falsificar o documento de habilitação",
+    "artigo": "234",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6939",
+    "desdobramento": "02",
+    "infracao": "Falsificar ou adulterar documento de identificação do veículo",
+    "artigo": "234",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6947",
+    "desdobramento": "01",
+    "infracao": "Conduzir pessoas nas partes externas do veículo",
+    "artigo": "235",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6947",
+    "desdobramento": "02",
+    "infracao": "Conduzir animais nas partes externas do veículo",
+    "artigo": "235",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6947",
+    "desdobramento": "03",
+    "infracao": "Conduzir carga nas partes externas do veículo",
+    "artigo": "235",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6955",
+    "desdobramento": "00",
+    "infracao": "Rebocar outro veículo com cabo flexivel ou corda",
+    "artigo": "236",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "6963",
+    "desdobramento": "00",
+    "infracao": "Transitar com o veículo em desacordo com a especificação/falta de inscrição/simbologia necessária à sua identificação",
+    "artigo": "237",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "6971",
+    "desdobramento": "00",
+    "infracao": "Recusar-se a entregar CNH/CRV/CRLV/outros documentos",
+    "artigo": "238",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6980",
+    "desdobramento": "00",
+    "infracao": "Retirar do local veículo legalmente retido para regularização, sem permissão",
+    "artigo": "239",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "6998",
+    "desdobramento": "00",
+    "infracao": "Deixar o responsável de promover a baixa do registro de veículo irrecuperável/desmontado",
+    "artigo": "240",
+    "infrator": "Proprietário",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7005",
+    "desdobramento": "01",
+    "infracao": "Deixar de atualizar o cadastro de registro do veículo",
+    "artigo": "241",
+    "infrator": "Proprietário",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "7005",
+    "desdobramento": "02",
+    "infracao": "Deixar de atualizar o cadastro de habilitação do condutor",
+    "artigo": "241",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "7013",
+    "desdobramento": "01",
+    "infracao": "Fazer falsa declaração de domicílio para fins de registro/licenciamento",
+    "artigo": "242",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7013",
+    "desdobramento": "02",
+    "infracao": "Fazer falsa declaração de domicílio para fins de habilitação",
+    "artigo": "242",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7021",
+    "desdobramento": "00",
+    "infracao": "Deixar a seguradora de comunicar ocorrência de perda total do veículo e devolver as respectivas placas/documentos",
+    "artigo": "243",
+    "infrator": "Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7030",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta, motoneta e ciclomotor sem capacete de segurança",
+    "artigo": "244, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7030",
+    "desdobramento": "03",
+    "infracao": "Conduzir motocicleta, motoneta ou ciclomotor sem vestuário de acordo com normas aprovadas pelo CONTRAN",
+    "artigo": "244, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7048",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta, motoneta e ciclomotor transportando passageiro sem capacete",
+    "artigo": "244, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7048",
+    "desdobramento": "03",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor transportando passageiro fora do assento",
+    "artigo": "244, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7056",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor fazendo malabarismo/equilibrando-se em uma roda",
+    "artigo": "244, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7056",
+    "desdobramento": "02",
+    "infracao": "Conduzir ciclo fazendo malabarismo ou equilibrando-se em uma roda*",
+    "artigo": "244, III C/C parágrafo 1",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7064",
+    "desdobramento": "00",
+    "infracao": "Conduzir motocicleta, motoneta e ciclomotor com os faróis apagados",
+    "artigo": "244, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7072",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor transportando criança menor de 10 anos de idade",
+    "artigo": "244, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7072",
+    "desdobramento": "02",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor transportando criança sem condição de cuidar da própria segurança",
+    "artigo": "244, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7080",
+    "desdobramento": "00",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor rebocando outro veículo",
+    "artigo": "244, VI",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7099",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor sem segurar o guidom com ambas as mãos",
+    "artigo": "244, VII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7099",
+    "desdobramento": "02",
+    "infracao": "Conduzir ciclo sem segurar o guidom com ambas as mãos",
+    "artigo": "244, VII c/c pr 1",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7102",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta/motoneta/ciclomotor transportando carga incompatível",
+    "artigo": "244, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7102",
+    "desdobramento": "02",
+    "infracao": "Conduzir ciclo transportando carga incompatível",
+    "artigo": "244, VIII c/c pr 1",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7102",
+    "desdobramento": "03",
+    "infracao": "Conduzir motocicleta/motoneta transportando carga em desacordo com parágrafo 2º, do art. 139-a, do CTB",
+    "artigo": "244, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7110",
+    "desdobramento": "00",
+    "infracao": "Conduzir ciclo transportando passageiro fora da garupa/assento a ele destinado",
+    "artigo": "244, Parágrafo 1-A",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7129",
+    "desdobramento": "01",
+    "infracao": "Conduzir ciclomotor em via de trânsito rápido ou em rodovia, salvo se houver acostamento com faixa própria",
+    "artigo": "244, Parágrafo 1-B",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7129",
+    "desdobramento": "02",
+    "infracao": "Conduzir ciclomotor via de trânsito rápido/rodovia sem acostamento/faixa própria",
+    "artigo": "244, Parágrafo 1-B c/c Parágrafo 2",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7129",
+    "desdobramento": "03",
+    "infracao": "Conduzir ciclomotor em rodovias, salvo se houver acostamento ou faixa própria",
+    "artigo": "244, Parágrafo 2º",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7137",
+    "desdobramento": "00",
+    "infracao": "Conduzir ciclo transportando criança sem condição de cuidar própria segurança",
+    "artigo": "244, pr 1-C",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7145",
+    "desdobramento": "00",
+    "infracao": "Utilizar a via para depósito de mercadorias, materiais ou equipamentos",
+    "artigo": "245",
+    "infrator": "Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7153",
+    "desdobramento": "01",
+    "infracao": "Deixar de sinalizar obstáculo à circulação/segurança de veículos e pedestres, tanto no leito da via terrestre como na calçada - sem agravamento",
+    "artigo": "246",
+    "infrator": "Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7153",
+    "desdobramento": "02",
+    "infracao": "Obstaculizar a via indevidamente - sem agravamento",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7161",
+    "desdobramento": "01",
+    "infracao": "Deixar de sinalizar obstáculo à circulação/segurança de veículos e pedestres, tanto no leito da via terrestre como na calçada - gravíssima 2x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 586.94
+  },
+  {
+    "codigo": "7161",
+    "desdobramento": "02",
+    "infracao": "Obstaculizar a via indevidamente - agravamento 2x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 586.94
+  },
+  {
+    "codigo": "7170",
+    "desdobramento": "01",
+    "infracao": "Deixar de sinalizar obstáculo à circulação/segurança de veículos e pedestres, tanto no leito da via terrestre como na calçada - agravamento 3x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 880.41
+  },
+  {
+    "codigo": "7170",
+    "desdobramento": "02",
+    "infracao": "Obstaculizar a via indevidamente - agravamento 3x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 880.41
+  },
+  {
+    "codigo": "7188",
+    "desdobramento": "01",
+    "infracao": "Deixar de sinalizar obstáculo à circulação/segurança de veículos e pedestres, tanto no leito da via terrestre como na calçada - agravamento 4x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 1173.88
+  },
+  {
+    "codigo": "7188",
+    "desdobramento": "02",
+    "infracao": "Obstaculizar a via indevidamente - agravamento 4x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 1173.88
+  },
+  {
+    "codigo": "7196",
+    "desdobramento": "01",
+    "infracao": "Deixar de sinalizar obstáculo à circulação/segurança de veículos e pedestres, tanto no leito da via terrestre como na calçada - agravamento 5x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "7196",
+    "desdobramento": "02",
+    "infracao": "Obstaculizar a via indevidamente - agravamento 5x",
+    "artigo": "246",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "7200",
+    "desdobramento": "01",
+    "infracao": "Deixar de conduzir pelo bordo da pista em fila única veículos de tração/propulsão humana",
+    "artigo": "247",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7200",
+    "desdobramento": "02",
+    "infracao": "Deixar de conduzir pelo bordo da pista em fila única veículos de tração animal",
+    "artigo": "247",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7218",
+    "desdobramento": "00",
+    "infracao": "Transportar em veículo destinado a transporte de passageiros carga excedente em desacordo com o estabelecido no art. 109",
+    "artigo": "248",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7226",
+    "desdobramento": "01",
+    "infracao": "Deixar de manter acesas, à noite, as luzes de posição, quando o veículo estiver parado",
+    "artigo": "249",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7226",
+    "desdobramento": "02",
+    "infracao": "Deixar de manter acesas, à noite, as luzes de posição, quando o veículo estiver fazendo carga/descarga",
+    "artigo": "249",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7234",
+    "desdobramento": "00",
+    "infracao": "Em movimento, deixar de manter acesa a luz baixa durante a noite",
+    "artigo": "250, I-A",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7242",
+    "desdobramento": "01",
+    "infracao": "Em movimento de dia, deixar de manter acesa a luz baixa em túneis",
+    "artigo": "250, I-B",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7242",
+    "desdobramento": "02",
+    "infracao": "Em movimento de dia, deixar de manter acesa a luz baixa sob chuva, neblina ou cerração",
+    "artigo": "250, I-B",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7250",
+    "desdobramento": "00",
+    "infracao": "Em movimento de dia, deixar de manter acesa a luz baixa, no caso de veículos de transporte coletivo de passageiros em circulação em faixas ou pistas a eles destinadas",
+    "artigo": "250, I-C",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7269",
+    "desdobramento": "00",
+    "infracao": "Em movimento de dia, deixar de manter acesa luz baixa de motocicletas/motonetas/ciclomotores",
+    "artigo": "250, I-D",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7277",
+    "desdobramento": "00",
+    "infracao": "Em movimento, deixar de manter acesas luzes de posição sob chuva forte/neblina/cerração",
+    "artigo": "250, II",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7285",
+    "desdobramento": "00",
+    "infracao": "Em movimento, deixar de manter a placa traseira iluminada à noite",
+    "artigo": "250, III",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7293",
+    "desdobramento": "00",
+    "infracao": "Utilizar o pisca-alerta, exceto em imobilizações ou situações de emergência",
+    "artigo": "251, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7307",
+    "desdobramento": "00",
+    "infracao": "Utilizar luz alta e baixa intermitente, exceto quando permitido pelo CTB",
+    "artigo": "251, II",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7315",
+    "desdobramento": "00",
+    "infracao": "Dirigir o veículo com o braço do lado de fora",
+    "artigo": "252, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7323",
+    "desdobramento": "01",
+    "infracao": "Dirigir o veículo transportando pessoas à sua esquerda ou entre os braços e pernas",
+    "artigo": "252, II",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7323",
+    "desdobramento": "02",
+    "infracao": "Dirigir o veículo transportando animais à sua esquerda ou entre os braços e pernas",
+    "artigo": "252, II",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7323",
+    "desdobramento": "03",
+    "infracao": "Dirigir o veículo transportando volume à sua esquerda ou entre os braços e pernas",
+    "artigo": "252, II",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7331",
+    "desdobramento": "00",
+    "infracao": "Dirigir o veículo com incapacidade física ou mental temporária",
+    "artigo": "252, III",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7340",
+    "desdobramento": "00",
+    "infracao": "Dirigir o veículo usando calçado que não se firme nos pés/comprometa a utilização dos pedais",
+    "artigo": "252, IV",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7358",
+    "desdobramento": "00",
+    "infracao": "Dirigir veículo com apenas uma das mãos, exceto quando permitido pelo CTB",
+    "artigo": "252, V",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7366",
+    "desdobramento": "01",
+    "infracao": "Dirigir o veículo utilizando-se de fones nos ouvidos conecatods a aparelhagem sonora",
+    "artigo": "252, VI",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7366",
+    "desdobramento": "02",
+    "infracao": "Dirigir veículo utilizando-se de telefone celular",
+    "artigo": "252, VI",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7374",
+    "desdobramento": "00",
+    "infracao": "Bloquear a via com veículo",
+    "artigo": "253",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7382",
+    "desdobramento": "00",
+    "infracao": "É proibido ao pedestre permanecer/andar nas pistas de rolamento, exceto para cruzá-las onde for permitido",
+    "artigo": "254, I",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7390",
+    "desdobramento": "01",
+    "infracao": "É proibido ao pedestre cruzar pista de rolamento de viaduto, exceto onde for permitido",
+    "artigo": "254, II",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7390",
+    "desdobramento": "02",
+    "infracao": "É proibido ao pedestre cruzar pista de rolamento de ponte, exceto onde for permitido",
+    "artigo": "254, II",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7390",
+    "desdobramento": "03",
+    "infracao": "É proibido ao pedestre cruzar pista de rolamento de túneis, exceto onde for permitido",
+    "artigo": "254, II",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7404",
+    "desdobramento": "00",
+    "infracao": "É proibido ao pedestre atravessar via dentro das áreas de cruzamento, exceto onde for permitido por sinalização",
+    "artigo": "254, III",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7412",
+    "desdobramento": "00",
+    "infracao": "É proibido ao pedestre utilizar-se da via em agrupamentos capazes de perturbar o trânsito, ou para a prática de qualquer folguedo, esporte, desfiles e similares",
+    "artigo": "254, IV",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7420",
+    "desdobramento": "01",
+    "infracao": "É proibido ao pedestre andar fora da faixa própria",
+    "artigo": "254, V",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7420",
+    "desdobramento": "02",
+    "infracao": "É proibido ao pedestre andar fora da passarela",
+    "artigo": "254, V",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7420",
+    "desdobramento": "03",
+    "infracao": "É proibido ao pedestre andar fora da passagem aérea",
+    "artigo": "254, V",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7420",
+    "desdobramento": "04",
+    "infracao": "É proibido ao pedestre andar fora da passagem subterrânea",
+    "artigo": "254, V",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7439",
+    "desdobramento": "00",
+    "infracao": "É proibido ao pedestre desobedecer a sinalização de trânsito específica",
+    "artigo": "254, VI",
+    "infrator": "Pedestre",
+    "pontuacao": 3,
+    "valor": 44.19
+  },
+  {
+    "codigo": "7447",
+    "desdobramento": "01",
+    "infracao": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta",
+    "artigo": "255",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7447",
+    "desdobramento": "02",
+    "infracao": "Conduzir bicicleta de forma agressiva",
+    "artigo": "255",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7455",
+    "desdobramento": "00",
+    "infracao": "Transitar em velocidade superior a máxima permitida em até 20%",
+    "artigo": "218, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7463",
+    "desdobramento": "00",
+    "infracao": "Transitar em velocidade superior a máxima permitida em mais de 20% ate 50%",
+    "artigo": "218, II",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7471",
+    "desdobramento": "00",
+    "infracao": "Transitar em velocidade superior a máxima permitida em mais de 50%",
+    "artigo": "218, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "7480",
+    "desdobramento": "01",
+    "infracao": "Aprovar projeto de edificação que possa transformar-se em pólo atrativo de trânsito sem prévia anuência do órgão ou entidade trânsito",
+    "artigo": "93 C/C 95 pr 4",
+    "infrator": "Servidor Público",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7480",
+    "desdobramento": "02",
+    "infracao": "Aprovar projeto de edificação que possa transformar-se em pólo atrativo de trânsito sem estacionamento/indicação das vias de acesso",
+    "artigo": "93 C/C 95 pr 4",
+    "infrator": "Servidor Público",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7498",
+    "desdobramento": "00",
+    "infracao": "Não sinalizar devidamente/imediatamente obstáculo à circulação/segurança de veículos e pedestres, tanto na via quanto na calçada",
+    "artigo": "94",
+    "infrator": "Servidor Público",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7501",
+    "desdobramento": "00",
+    "infracao": "Utilizar ondulação transversal/sonorizador fora dos padrões/critérios estabelecidos pelo CONTRAN",
+    "artigo": "94, Parágrafo Único",
+    "infrator": "Servidor Público",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7510",
+    "desdobramento": "01",
+    "infracao": "Iniciar obra perturbe/interrompa circulacao/seguranca veículo/pedestres s/permissao",
+    "artigo": "95",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7510",
+    "desdobramento": "02",
+    "infracao": "Iniciar evento que perturbe/interrompa a circulação/segurança de veículos/pedestres sem permissão",
+    "artigo": "95",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7528",
+    "desdobramento": "01",
+    "infracao": "Não sinalizar a execução ou manutenção da obra",
+    "artigo": "95, pr 1",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7528",
+    "desdobramento": "02",
+    "infracao": "Não sinalizar a execução ou manutenção do evento",
+    "artigo": "95, pr 1",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7536",
+    "desdobramento": "00",
+    "infracao": "Não avisar a comunidade com 48h de antecedência a interdição da via, indicando caminho alternativo",
+    "artigo": "95, pr 2",
+    "infrator": "Servidor Público",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "7544",
+    "desdobramento": "01",
+    "infracao": "Falta de escrituração dos livros de registro das entradas/saídas e de uso de placa de experiência",
+    "artigo": "330, pr 5",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7544",
+    "desdobramento": "02",
+    "infracao": "Atraso na escrituração dos livros de registro das entradas/saídas e de uso de placa de experiência",
+    "artigo": "330, pr 5",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7544",
+    "desdobramento": "03",
+    "infracao": "Fraude na escrituração dos livros de registro das entradas/saídas e de uso de placa de experiência",
+    "artigo": "330, pr 5",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7544",
+    "desdobramento": "04",
+    "infracao": "Recusa da exibição do livro de registro das entradas/saídas e de uso de placa de experiência",
+    "artigo": "330, pr 5",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7552",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta/motoneta efetuando transporte remunerado de mercadoria em desacordo com o art. 139-a do CTB",
+    "artigo": "244, IX",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7552",
+    "desdobramento": "02",
+    "infracao": "Conduzir motocicleta/motoneta efetuando transporte remunerado em desacordo com as normas que regem a atividade profissional dos mototaxistas",
+    "artigo": "244, IX",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7560",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo de transporte de passageiros ou carga em desacordo com as condições do art. 67-c do CTB",
+    "artigo": "230, XXIII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7579",
+    "desdobramento": "00",
+    "infracao": "Recusar a submeter-se a teste, exame clínico, perícia ou outro procedimento que permita certificar a influência de álcool/substância psicoativa na forma estabelecida pelo art. 277",
+    "artigo": "165-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "7587",
+    "desdobramento": "00",
+    "infracao": "Transitar na faixa ou via exclusiva, regulamentada para transporte público coletivo de passageiros",
+    "artigo": "184, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7595",
+    "desdobramento": "00",
+    "infracao": "Dirigir veículo realizando cobrança de tarifa com veículo em movimento",
+    "artigo": "252, VII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7609",
+    "desdobramento": "00",
+    "infracao": "Organizar a conduta prevista no caput do artigo 253-A",
+    "artigo": "253-A, parágrafo 1",
+    "infrator": "Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 7,
+    "valor": 17608.2
+  },
+  {
+    "codigo": "7617",
+    "desdobramento": "01",
+    "infracao": "Usar qualquer veículo para, deliberadamente, interromper a circulação na via sem autorização do órgão",
+    "artigo": "253-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 5869.4
+  },
+  {
+    "codigo": "7617",
+    "desdobramento": "02",
+    "infracao": "Usar qualquer veículo para, deliberadamente, restringir a circulação na via sem autorização do órgão",
+    "artigo": "253-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 5869.4
+  },
+  {
+    "codigo": "7617",
+    "desdobramento": "03",
+    "infracao": "Usar qualquer veículo para, deliberadamente, perturbar circulação na via sem autorização do órgão",
+    "artigo": "253-A",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 5869.4
+  },
+  {
+    "codigo": "7625",
+    "desdobramento": "01",
+    "infracao": "Estacionar nas vagas reservadas às pessoas com deficiência, sem credencial",
+    "artigo": "181, XX",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7625",
+    "desdobramento": "02",
+    "infracao": "Estacionar nas vagas reservadas a idosos, sem credencial",
+    "artigo": "181, XX",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7633",
+    "desdobramento": "01",
+    "infracao": "Dirigir veículo segurando telefone celular",
+    "artigo": "252, Parágrafo Único",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5142",
+    "desdobramento": "00",
+    "infracao": "Permitir posse/condução do veículo a pessoa com CNH/PPD vencida há mais de 30 dias",
+    "artigo": "164 c/c 162-V",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5150",
+    "desdobramento": "01",
+    "infracao": "Permitir posse/condução do veículo a pessoa sem usar lentes corretoras de visão",
+    "artigo": "164 c/c 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5150",
+    "desdobramento": "02",
+    "infracao": "Permitir posse/condução do veículo a pessoa sem usar aparelho auxiliar de audição",
+    "artigo": "164 c/c 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5150",
+    "desdobramento": "03",
+    "infracao": "Permitir posse/condução do veículo a pessoa sem usar aparelho de prótese fisica",
+    "artigo": "164 c/c 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5150",
+    "desdobramento": "04",
+    "infracao": "Permitir posse/condução do veículo sem adaptações impostas por ocasião da concessão ou da renovação da licença para conduzir",
+    "artigo": "164 c/c 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5169",
+    "desdobramento": "01",
+    "infracao": "Dirigir sob a influência de álcool",
+    "artigo": "165 C/ LEI 12760/2012",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5169",
+    "desdobramento": "02",
+    "infracao": "Dirigir sob a influência de qualquer outra substância psicoativa que determine dependência",
+    "artigo": "165 C/ LEI 12760/2012",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5177",
+    "desdobramento": "00",
+    "infracao": "Confiar/entregar veículo a pessoa com estado físico/psíquico sem condições de dirigir com segurança",
+    "artigo": "166",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5185",
+    "desdobramento": "01",
+    "infracao": "Deixar o condutor de usar o cinto segurança",
+    "artigo": "167",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5185",
+    "desdobramento": "02",
+    "infracao": "Deixar o passageiro de usar o cinto segurança",
+    "artigo": "167",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5193",
+    "desdobramento": "00",
+    "infracao": "Transportar criança sem observância das normas de segurança estabelecidas pelo CTB",
+    "artigo": "168",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5207",
+    "desdobramento": "00",
+    "infracao": "Dirigir sem atenção ou sem os cuidados indispensáveis à segurança",
+    "artigo": "169",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5215",
+    "desdobramento": "01",
+    "infracao": "Dirigir ameaçando os pedestres que estejam atravessando a via pública",
+    "artigo": "170",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5215",
+    "desdobramento": "02",
+    "infracao": "Dirigir ameaçando os demais veículos",
+    "artigo": "170",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5223",
+    "desdobramento": "01",
+    "infracao": "Usar veículo para arremessar sobre os pedestres água ou detritos",
+    "artigo": "171",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5223",
+    "desdobramento": "02",
+    "infracao": "Usar veículo para arremessar sobre os veículos água ou detritos",
+    "artigo": "171",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5231",
+    "desdobramento": "01",
+    "infracao": "Atirar do veículo objetos ou substâncias",
+    "artigo": "172",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5231",
+    "desdobramento": "02",
+    "infracao": "Abandonar na via objetos ou substâncias",
+    "artigo": "172",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5240",
+    "desdobramento": "00",
+    "infracao": "Disputar corrida",
+    "artigo": "173",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5258",
+    "desdobramento": "01",
+    "infracao": "Promover na via competição sem permissão",
+    "artigo": "174",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5258",
+    "desdobramento": "02",
+    "infracao": "Promover na via eventos organizados sem permissão",
+    "artigo": "174",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5258",
+    "desdobramento": "03",
+    "infracao": "Promover na via exibição e demonstração de perícia em manobra de veículo sem permissão",
+    "artigo": "174",
+    "infrator":"Pessoa Física/Pessoa Jurídica",
+    "pontuacao": 0,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5266",
+    "desdobramento": "01",
+    "infracao": "Participar na via como condutor em competição sem permissão",
+    "artigo": "174",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5266",
+    "desdobramento": "02",
+    "infracao": "Participar na via como condutor em evento organizados sem permissão",
+    "artigo": "174",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5266",
+    "desdobramento": "03",
+    "infracao": "Participar como condutor em exibição e demonstração de perícia em manobra de veículo sem permissão",
+    "artigo": "174",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5274",
+    "desdobramento": "01",
+    "infracao": "Utilizar veículo para demonstrar ou exibir manobra perigosa mediante arrancada brusca",
+    "artigo": "175",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5274",
+    "desdobramento": "02",
+    "infracao": "Utilizar veículo para demonstrar/exibir manobra perigosa mediante derrapagem/frenagem com deslizamento/arrastamento de pneus",
+    "artigo": "175",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5274",
+    "desdobramento": "03",
+    "infracao": "Utilizar-se de veículo para demonstrar ou exibir derrapagem ou frenagem",
+    "artigo": "175",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 2934.7
+  },
+  {
+    "codigo": "5282",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor envolvido em acidente, de prestar ou providenciar socorro a vítima",
+    "artigo": "176, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5290",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor envolvido em acidente, de adotar providências para evitar perigo para o trânsito",
+    "artigo": "176, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5304",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor envolvido em acidente, de preservar local para trabalho da policia/perícia",
+    "artigo": "176, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5312",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor envolvido em acidente, de remover o veículo do local quando determinado pela polícia ou agente",
+    "artigo": "176, IV",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5320",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor envolvido em acidente, de identificar-se ao policial e prestar informações para o boletim de ocorrência",
+    "artigo": "176, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "5339",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor de prestar socorro à vítima de acidente de trânsito, quando solicitado pelo agente",
+    "artigo": "177",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5347",
+    "desdobramento": "00",
+    "infracao": "Deixar o condutor envolvido em acidente sem vítima, de remover o veículo do local",
+    "artigo": "178",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5355",
+    "desdobramento": "00",
+    "infracao": "Fazer ou deixar que se faça reparo em veículo, em rodovia e via de trânsito rápido",
+    "artigo": "179, I",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5363",
+    "desdobramento": "00",
+    "infracao": "Fazer/deixar que se faça reparo em veículo nas vias (que não rodovia/trânsito rápido)",
+    "artigo": "179, II",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5371",
+    "desdobramento": "00",
+    "infracao": "Ter seu veículo imobilizado na via por falta de combustível",
+    "artigo": "180",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5380",
+    "desdobramento": "00",
+    "infracao": "Estacionar nas esquinas e a menos de 5m do alinhamento da via transversal",
+    "artigo": "181, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5398",
+    "desdobramento": "00",
+    "infracao": "Estacionar afastado da guia da calçada (meio-fio) de 50cm a 1m",
+    "artigo": "181, II",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5401",
+    "desdobramento": "00",
+    "infracao": "Estacionar afastado da guia da calçada (meio-fio) a mais de 1m",
+    "artigo": "181, III",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5410",
+    "desdobramento": "00",
+    "infracao": "Estacionar em desacordo com as posições estabelecidas no CTB",
+    "artigo": "181, IV",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5428",
+    "desdobramento": "01",
+    "infracao": "Estacionar na pista de rolamento das estradas",
+    "artigo": "181, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5428",
+    "desdobramento": "02",
+    "infracao": "Estacionar na pista de rolamento das rodovias",
+    "artigo": "181, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5428",
+    "desdobramento": "03",
+    "infracao": "Estacionar na pista de rolamento das vias de trânsito rápido",
+    "artigo": "181, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5428",
+    "desdobramento": "04",
+    "infracao": "Estacionar na pista de rolamento das vias dotadas de acostamento",
+    "artigo": "181, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5436",
+    "desdobramento": "00",
+    "infracao": "Estacionar junto/sobre hidrantes de incendio, registro de água/tampa de poço de visita de galerias subterrâneas",
+    "artigo": "181, VI",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5444",
+    "desdobramento": "00",
+    "infracao": "Estacionar o veículo nos acostamentos",
+    "artigo": "181, VII",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "01",
+    "infracao": "Estacionar no passeio",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "02",
+    "infracao": "Estacionar sobre faixa destinada a pedestre",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "03",
+    "infracao": "Estacionar sobre ciclovia ou ciclofaixa",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "04",
+    "infracao": "Estacionar nas ilhas ou refúgios",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "05",
+    "infracao": "Estacionar ao lado ou sobre canteiro central ou divisores de pista de rolamento",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "06",
+    "infracao": "Estacionar ao lado ou sobre marcas de canalização",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5002",
+    "desdobramento": "00",
+    "infracao": "Multa por não identificação do condutor infrator, imposta a pessoa jurídica",
+    "artigo": "257, pr 8",
+    "infrator": "Proprietário",
+    "pontuacao": 0,
+    "valor": 0
+  },
+  {
+    "codigo": "5010",
+    "desdobramento": "00",
+    "infracao": "Dirigir veículo sem possuir CNH/PPD/ACC",
+    "artigo": "162, I",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5029",
+    "desdobramento": "01",
+    "infracao": "Dirigir veículo com CNH/PPD/ACC cassada",
+    "artigo": "162, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5029",
+    "desdobramento": "02",
+    "infracao": "Dirigir veículo com CNH/PPD/ACC com suspensão do direito de dirigir",
+    "artigo": "162, II",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5037",
+    "desdobramento": "01",
+    "infracao": "Dirigir veículo com CNH de categoria diferente da do veículo",
+    "artigo": "162, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 586.94
+  },
+  {
+    "codigo": "5037",
+    "desdobramento": "02",
+    "infracao": "Dirigir veículo com PPD de categoria diferente da do veículo",
+    "artigo": "162, III",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 586.94
+  },
+  {
+    "codigo": "5045",
+    "desdobramento": "00",
+    "infracao": "Dirigir veículo com validade da CNH/PPD vencida há mais de 30 dias",
+    "artigo": "162, V",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5053",
+    "desdobramento": "01",
+    "infracao": "Dirigir veículo sem usar lentes corretoras de visão",
+    "artigo": "162, VI",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5053",
+    "desdobramento": "02",
+    "infracao": "Dirigir veículo sem usar aparelho auxiliar de audição",
+    "artigo": "162, VI",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5053",
+    "desdobramento": "03",
+    "infracao": "Dirigir veículo sem usar aparelho auxiliar de prótese física",
+    "artigo": "162, VI",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5053",
+    "desdobramento": "04",
+    "infracao": "Dirigir veículo sem adaptações impostas na concessão/renovação da licença para conduzir",
+    "artigo": "162, VI",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5061",
+    "desdobramento": "00",
+    "infracao": "Entregar veículo a pessoa sem CNH/PPD/ACC",
+    "artigo": "163 C/C 162-I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5070",
+    "desdobramento": "01",
+    "infracao": "Entregar veículo a pessoa com CNH/PPD/ACC cassada",
+    "artigo": "163 C/C 162-II",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5070",
+    "desdobramento": "02",
+    "infracao": "Entregar veículo a pessoa com CNH/PPD/ACC com suspensão do direito de dirigir",
+    "artigo": "163 C/C 162-II",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5088",
+    "desdobramento": "01",
+    "infracao": "Entregar veículo a pessoa com CNH de categoria diferente da do veículo",
+    "artigo": "163 C/C 162-III",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 586.94
+  },
+  {
+    "codigo": "5088",
+    "desdobramento": "02",
+    "infracao": "Entregar veículo a pessoa com PPD de categoria diferente da do veículo",
+    "artigo": "163 C/C 162-III",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 586.94
+  },
+  {
+    "codigo": "5096",
+    "desdobramento": "00",
+    "infracao": "Entregar veículo a pessoa com CNH/PPD vencida há mais de 30 dias",
+    "artigo": "163 C/C 162-V",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5100",
+    "desdobramento": "01",
+    "infracao": "Entregar o veículo a pessoa sem usar lentes corretoras de visão",
+    "artigo": "163 C/C 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5100",
+    "desdobramento": "02",
+    "infracao": "Entregar o veículo a pessoa sem usar aparelho auxiliar de audição",
+    "artigo": "163 C/C 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5100",
+    "desdobramento": "03",
+    "infracao": "Entregar o veículo a pessoa sem aparelho de prótese física",
+    "artigo": "163 C/C 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5100",
+    "desdobramento": "04",
+    "infracao": "Entregar veículo a pessoa sem adaptacões impostas por ocasião da concessão ou da renovação da licença para conduzir",
+    "artigo": "163 C/C 162-VI",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "5118",
+    "desdobramento": "00",
+    "infracao": "Permitir posse/condução do veículo a pessoa sem CNH/PPD/ACC",
+    "artigo": "164 C/C 162-I",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5126",
+    "desdobramento": "01",
+    "infracao": "Permitir posse/condução do veículo a pessoa com CNH/PPD/ACC cassada",
+    "artigo": "164 C/C 162-II",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5126",
+    "desdobramento": "02",
+    "infracao": "Permitir posse/condução do veículo a pessoa com CNH/PPD/ACC com suspensão do direito de dirigir",
+    "artigo": "164 C/C 162-II",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 880.41
+  },
+  {
+    "codigo": "5134",
+    "desdobramento": "01",
+    "infracao": "Permitir posse/condução veículo a pessoa com CNH de categoria diferente da do veículo",
+    "artigo": "164 c/c 162-III",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 586.94
+  },
+  {
+    "codigo": "5134",
+    "desdobramento": "02",
+    "infracao": "Permitir posse/condução veículo a pessoa com PPD categoria diferente da do veículo",
+    "artigo": "164 C/C 162-III",
+    "infrator": "Proprietário",
+    "pontuacao": 7,
+    "valor": 586.94
+  },
+  {
+    "codigo": "5452",
+    "desdobramento": "07",
+    "infracao": "Estacionar ao lado ou sobre gramado ou jardim público",
+    "artigo": "181, VIII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5460",
+    "desdobramento": "00",
+    "infracao": "Estacionar em guia de calçada rebaixada destinada a entrada/saída de veículos",
+    "artigo": "181, IX",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5479",
+    "desdobramento": "00",
+    "infracao": "Estacionar impedindo a movimentação de outro veículo",
+    "artigo": "181, X",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5487",
+    "desdobramento": "00",
+    "infracao": "Estacionar ao lado de outro veículo em fila dupla",
+    "artigo": "181, XI",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5495",
+    "desdobramento": "00",
+    "infracao": "Estacionar na área de cruzamento de vias",
+    "artigo": "181, XII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5509",
+    "desdobramento": "00",
+    "infracao": "Estacionar no ponto de embarque/desembarque de passageiros transporte coletivo",
+    "artigo": "181, XIII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5517",
+    "desdobramento": "01",
+    "infracao": "Estacionar nos viadutos",
+    "artigo": "181, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5517",
+    "desdobramento": "02",
+    "infracao": "Estacionar nas pontes",
+    "artigo": "181, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5517",
+    "desdobramento": "03",
+    "infracao": "Estacionar nos túneis",
+    "artigo": "181, XIV",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5525",
+    "desdobramento": "00",
+    "infracao": "Estacionar veículo na contramão de direção",
+    "artigo": "181, XV",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5533",
+    "desdobramento": "00",
+    "infracao": "Estacionar em aclive ou declive, não estando devidamente freado e sem calço de segurança, quando se tratar de veículo com peso bruto total superior a 3500kg",
+    "artigo": "181, XVI",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5541",
+    "desdobramento": "01",
+    "infracao": "Estacionar em desacordo com a regulamentação especificada pela sinalização",
+    "artigo": "181, XVII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5541",
+    "desdobramento": "02",
+    "infracao": "Estacionar em desacordo com a regulamentação - estacionamento rotativo",
+    "artigo": "181, XVII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5541",
+    "desdobramento": "03",
+    "infracao": "Estacionar em desacordo com a regulamentação - ponto ou vaga de taxi",
+    "artigo": "181, XVII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5541",
+    "desdobramento": "04",
+    "infracao": "Estacionar em desacordo com a regulamentação - vaga de carga/descarga",
+    "artigo": "181, XVII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5541",
+    "desdobramento": "07",
+    "infracao": "Estacionar o veículo em desacordo com a regulamentação - vaga de curta duração",
+    "artigo": "181, XVII",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5550",
+    "desdobramento": "00",
+    "infracao": "Estacionar em local/horário proibido especificamente pela sinalização",
+    "artigo": "181, XVIII",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5568",
+    "desdobramento": "00",
+    "infracao": "Estacionar local/horário de estacionamento e parada proibidos pela sinalização",
+    "artigo": "181, XIX",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5576",
+    "desdobramento": "00",
+    "infracao": "Parar nas esquinas e a menos 5m do bordo do alinhamento da via transversal",
+    "artigo": "182, I",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5584",
+    "desdobramento": "00",
+    "infracao": "Parar afastado da guia da calçada (meio-fio) de 50cm a 1m",
+    "artigo": "182, II",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5592",
+    "desdobramento": "00",
+    "infracao": "Parar afastado da guia da calçada (meio-fio) a mais de 1m",
+    "artigo": "182, III",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "5606",
+    "desdobramento": "00",
+    "infracao": "Parar em desacordo com as posições estabelecidas no CTB",
+    "artigo": "182, IV",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5614",
+    "desdobramento": "01",
+    "infracao": "Parar na pista de rolamento das estradas",
+    "artigo": "182, V",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5614",
+    "desdobramento": "02",
+    "infracao": "Parar na pista de rolamento das rodovias",
+    "artigo": "182, V",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5614",
+    "desdobramento": "03",
+    "infracao": "Parar na pista de rolamento das vias de trânsito rápido",
+    "artigo": "182, V",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5614",
+    "desdobramento": "04",
+    "infracao": "Parar na pista de rolamento das demais vias dotadas acostamento",
+    "artigo": "182, V",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "5622",
+    "desdobramento": "01",
+    "infracao": "Parar no passeio",
+    "artigo": "182, VI",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5622",
+    "desdobramento": "02",
+    "infracao": "Parar sobre faixa destinada a pedestres",
+    "artigo": "182, VI",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "5622",
+    "desdobramento": "03",
+    "infracao": "Parar nas ilhas ou refúgios",
+    "artigo": "182, VI",
+    "infrator": "Condutor",
+    "pontuacao": 3,
+    "valor": 88.38
+  },
+  {
+    "codigo": "7633",
+    "desdobramento": "02",
+    "infracao": "Dirigir veículo manuseando telefone celular",
+    "artigo": "252, Parágrafo Único",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 293.47
+  },
+  {
+    "codigo": "7641",
+    "desdobramento": "00",
+    "infracao": "Conduzir veículo para o qual seja exigida habilitação nas categorias C, D ou E sem realizar o exame toxicológico previsto no parágrafo 2º do art. 148-A, após 30 (trinta) dias do vencimento do prazo estabelecido",
+    "artigo": "165-B",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "7650",
+    "desdobramento": "00",
+    "infracao": "Exercer atividade remunerada ao veículo e não comprovar a realização de exame toxicológico periódico exigido pelo parágrafo 2º do art. 148-A por ocasião da renovação do documento de habilitação nas categorias C, D ou E",
+    "artigo": "165-B, Parágrafo Único",
+    "infrator": "Condutor",
+    "pontuacao": 7,
+    "valor": 1467.35
+  },
+  {
+    "codigo": "7670",
+    "desdobramento": "00",
+    "infracao": "Parar o veículo sobre ciclovia ou ciclofaixa",
+    "artigo": "182, XI",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7684",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta, motoneta ou ciclomotor com utilização de capacete de segurança sem viseira ou óculos de proteção",
+    "artigo": "244, X",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7684",
+    "desdobramento": "02",
+    "infracao": "Conduzir motocicleta, motoneta ou ciclomotor com a utilização de capacete com viseira/óculos de proteção em desacordo com a regulamentação do CONTRAN",
+    "artigo": "244, X",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7714",
+    "desdobramento": "01",
+    "infracao": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro com capacete de segurança sem viseira/óculos de proteção",
+    "artigo": "244, XI",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7714",
+    "desdobramento": "02",
+    "infracao": "Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro com capacete de segurança com viseira/óculos de proteção em desacordo com a regulamentação do CONTRAN",
+    "artigo": "244, XI",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7722",
+    "desdobramento": "00",
+    "infracao": "Em movimento, deixar de manter acesa a luz baixa de dia, em rodovias de pista simples situadas fora dos perímetros urbanos, no caso de veículos desprovidos de luzes de rodagem diurna",
+    "artigo": "250, I-E",
+    "infrator": "Condutor",
+    "pontuacao": 4,
+    "valor": 130.16
+  },
+  {
+    "codigo": "7730",
+    "desdobramento": "01",
+    "infracao": "Evadir-se da cobrança pelo uso de rodovias e vias urbanas para não efetuar seu pagamento",
+    "artigo": "209, A",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 195.23
+  },
+  {
+    "codigo": "7730",
+    "desdobramento": "02",
+    "infracao": "Deixar de efetuar pagamento, pelo uso de rodovias e vias urbanas, na forma estabelecida",
+    "artigo": "209, A",
+    "infrator": "Condutor",
+    "pontuacao": 5,
+    "valor": 192.23
+  },
+  {
+    "codigo": "9296",
+    "desdobramento": "02",
+    "infracao": "Não prestar os necessários esclarecimentos técnicos em situação de acidente",
+    "artigo": "46, II-F",
+    "infrator": "Exp",
+    "pontuacao": 0,
+    "valor": 328.27
+  }
+]
