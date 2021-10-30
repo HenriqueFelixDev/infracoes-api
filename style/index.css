@@ -1,0 +1,49 @@
+/* ensure all pages have Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+html, body {height: 100%;}
+
+.md-container {
+  max-width: 800px;
+  padding-top: 2rem;
+}
+
+.sml-card {
+  width: 22rem;
+  margin: 1rem 0;
+}
+
+.cntr-footer {
+  height: 80px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid #ccc;
+}
+
+.sml-logo {
+  height: 1em;
+  margin-left: 10px;
+}
+
+/* Custom Components */
+.loading-spinner {
+  border: thick solid #e0e0e0;
+  border-top: thick solid var(--blue);
+  border-radius: 100%;
+  margin: auto;
+  height: 48px;
+  width: 48px;
+  animation: loading 1s linear infinite;
+}
+
+@keyframes loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
