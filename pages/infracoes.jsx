@@ -29,6 +29,8 @@ export default function Infracoes() {
       <Head>
         <title>Infrações API - Infrações</title>
         <link rel="icon" href="/favicon-32x32.png" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1906352345780833"
+     crossorigin="anonymous"></script>
       </Head>
       <AppBar />
       <Container>

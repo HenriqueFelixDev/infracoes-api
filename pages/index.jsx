@@ -33,6 +33,8 @@ export default function Home() {
         <Head>
           <title>Infrações API</title>
           <link rel="icon" href="/favicon-32x32.png" />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1906352345780833"
+     crossorigin="anonymous"></script>
         </Head>
 
         <div className="d-flex h-100 align-items-center justify-content-center" 
